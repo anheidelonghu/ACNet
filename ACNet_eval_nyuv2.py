@@ -10,10 +10,10 @@ import datetime
 import cv2
 
 import torch.optim
-import ACNet_data_nyuv2 as ACNet_data
-import ACNet_models
-# import ACNet_models_V1
-import ACNet_models_V1_first as ACNet_models_V1
+import ACNet_data_nyuv2_eval as ACNet_data
+# import ACNet_models
+import ACNet_models_V1
+# import ACNet_models_V1_first as ACNet_models_V1
 #import ACNet_models_V1_delA as ACNet_models_V1
 from utils import utils
 from utils.utils import load_ckpt, intersectionAndUnion, AverageMeter, accuracy, macc
