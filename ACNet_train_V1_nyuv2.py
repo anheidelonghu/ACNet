@@ -14,8 +14,8 @@ from torch import nn
 
 from tensorboardX import SummaryWriter
 
-# import ACNet_models_V1
-import ACNet_models_V1_first as ACNet_models_V1
+import ACNet_models_V1
+# import ACNet_models_V1_first as ACNet_models_V1
 # import ACNet_models_V1_delA as ACNet_models_V1
 import ACNet_data_nyuv2 as ACNet_data
 from utils import utils
