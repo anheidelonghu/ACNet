@@ -7,6 +7,13 @@ This is the official implement for
 Accepted by IEEE ICIP 2019
 </pre></div>
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/acnet-attention-based-network-to-exploit/semantic-segmentation-on-sun-rgbd)](https://paperswithcode.com/sota/semantic-segmentation-on-sun-rgbd?p=acnet-attention-based-network-to-exploit)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/acnet-attention-based-network-to-exploit/semantic-segmentation-on-nyu-depth-v2)](https://paperswithcode.com/sota/semantic-segmentation-on-nyu-depth-v2?p=acnet-attention-based-network-to-exploit)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/acnet-attention-based-network-to-exploit/thermal-image-segmentation-on-pst900)](https://paperswithcode.com/sota/thermal-image-segmentation-on-pst900?p=acnet-attention-based-network-to-exploit)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/acnet-attention-based-network-to-exploit/thermal-image-segmentation-on-rt-5k)](https://paperswithcode.com/sota/thermal-image-segmentation-on-rt-5k?p=acnet-attention-based-network-to-exploit)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/acnet-attention-based-network-to-exploit/semantic-segmentation-on-rsmss)](https://paperswithcode.com/sota/semantic-segmentation-on-rsmss?p=acnet-attention-based-network-to-exploit)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/acnet-attention-based-network-to-exploit/semantic-segmentation-on-kitti-360)](https://paperswithcode.com/sota/semantic-segmentation-on-kitti-360?p=acnet-attention-based-network-to-exploit)
+
 ## Experiment result
 we evaluate the mIoU of ACNet in SUN-RGBD and NYUDv2
 
