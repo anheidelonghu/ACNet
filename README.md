@@ -12,6 +12,7 @@ Accepted by IEEE ICIP 2019
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/acnet-attention-based-network-to-exploit/thermal-image-segmentation-on-pst900)](https://paperswithcode.com/sota/thermal-image-segmentation-on-pst900?p=acnet-attention-based-network-to-exploit)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/acnet-attention-based-network-to-exploit/thermal-image-segmentation-on-mfn-dataset)](https://paperswithcode.com/sota/thermal-image-segmentation-on-mfn-dataset?p=acnet-attention-based-network-to-exploit)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/acnet-attention-based-network-to-exploit/semantic-segmentation-on-kitti-360)](https://paperswithcode.com/sota/semantic-segmentation-on-kitti-360?p=acnet-attention-based-network-to-exploit)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/acnet-attention-based-network-to-exploit/semantic-segmentation-on-thud-robotic-dataset)](https://paperswithcode.com/sota/semantic-segmentation-on-thud-robotic-dataset?p=acnet-attention-based-network-to-exploit)
 
 ## Experiment result
 we evaluate the mIoU of ACNet in SUN-RGBD and NYUDv2
